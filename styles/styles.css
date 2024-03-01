@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Geologica');
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+
+
+
+
+.section{
+    background-color:rgba(0, 0, 0, 0.904);
+}
+.name{
+    font-size: 35px;
+}
+
+#code{
+    background-color: rgba(182, 92, 32, 0.712);
+    height: 80px;
+    width: 470px;
+    
+}
+.click{
+    font-family:'Geologica';
+    font-size: 30px;
+    background-color: aqua;
+}
+.license{
+    font-family: 'Oswald';
+    font-size: 80px;
+
+}
+
+
